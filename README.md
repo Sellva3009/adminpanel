@@ -41,9 +41,5 @@ Admin panel
         - Achieving dark mode using Context API
     Hosting react app
         - run npm build and paste the file in the public html folder   
-
-
-Key id - rzp_test_dOPLfcoTimnbTX
-Key Secret - fGGELAgarEhOoTRndoH1Vzl9
     
     
